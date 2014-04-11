@@ -24,3 +24,7 @@ Tools, die man haben sollte:
 * Ruby, Version > 2.0 ist relativ aktuell: `ruby -v`
 * Rubygems, Hosting für sämtliche Ruby Programme, sogenannte "gems": `gem -v`
 * Bundler, installiert "gems" pro Projektordner in der gewünschten Version  : `sudo gem install bundler`, `bundle -v`
+
+###SSH Setup
+Anleitung:
+https://help.github.com/articles/generating-ssh-keys
