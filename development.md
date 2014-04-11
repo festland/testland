@@ -1,4 +1,4 @@
-# Development
+# Development von Github aus
 
 ## Lokale Entwicklungsumgebung
 
