@@ -1,4 +1,4 @@
-# Development
+# Development von Lokal
 
 ## Lokale Entwicklungsumgebung
 
