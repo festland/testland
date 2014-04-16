@@ -1,0 +1,6 @@
+javascripts:
+  application:
+    - javascripts/demo.js
+
+compress_assets: off
+gzip_assets: on
